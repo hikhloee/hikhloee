@@ -8,18 +8,26 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 
 
 
+<h3 align="left">🎇Experience</h3>
+
+- Major in Statistics.
+
+
+
 <h3 align="left">✨Work</h3>
 
 - I’m currently working on Research Institute of Applied Statistics, Sungkyunkwan Univ.(SKKU).
 
 
 
-<h3 align="left">💫Experience</h3>
+<h3 align="left">💫Achievements</h3>
 
 - Excellence Award in **Smart life ICT Convergence Idea APP Contest** hosted by Sogan Univ. and KIPFA, May 30, 2017. 
+- Certificate of **ADsP(Advanced Data Analytics Semi-Professional)**, Dec. 27, 2017.
 - Participation Award in **College of Science and Technology Academic Conference** hosted by Duksung Women's Univ. Nov 26, 2020. 
 - A gold prize in **Creative Idea Contest in IT/Design Division** hosted by Duksung Women's Univ. Nov 27, 2020. 
 - Passed the preliminary round of the **Weather Big Data Contest** hosted by Korea Forest Service and ongoing.
+
 
 
 
@@ -31,7 +39,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/62249557/128039628-9462001a-3725-4cd1-b775-744ba42bbec5.png" alt="R" width="40" height="40"></a> </p>
+<p align="left"> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/62249557/128039628-9462001a-3725-4cd1-b775-744ba42bbec5.png" alt="R" width="30" height="30"> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikhloee&show_icons=true&locale=en" alt="hikhloee" /></p>
 
