@@ -31,7 +31,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/62249557/128039628-9462001a-3725-4cd1-b775-744ba42bbec5.png" alt="R" width="40" height="40"></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikhloee&show_icons=true&locale=en" alt="hikhloee" /></p>
 
