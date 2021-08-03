@@ -19,6 +19,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 <h3 align="left">✨Work</h3>
 
 - I’m currently working on Research Institute of Applied Statistics, Sungkyunkwan Univ.(SKKU).
+- Tutor of Statistical Programming, R.
 
 
 
@@ -26,8 +27,6 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 
 - Excellence Award in **Smart life ICT Convergence Idea APP Contest** hosted by Sogan Univ. and KIPFA, May 30, 2017. 
 - Certificate of **ADsP(Advanced Data Analytics Semi-Professional)**, Dec. 27, 2017.
-- To join an open financial monitoring group organized by the Ministry of Strategy and Finance(기획재정부).
-- Tutor of Statistical Programming, R.
 - Dean's List on 1st semester of 2018, 2020.
 - Participation Award in **College of Science and Technology Academic Conference** hosted by Duksung Women's Univ. Nov 26, 2020. 
 - A gold prize in **Creative Idea Contest in IT/Design Division** hosted by Duksung Women's Univ. Nov 27, 2020. 
