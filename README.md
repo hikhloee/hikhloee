@@ -4,8 +4,9 @@
 
 <h4 align="left">Hello, I'm kyunghee KIM!</h4>
 <h5 align="left">Good day!  
-I am studing Data analysis from South Korea KR. I am interested in environment and time series. 
-  If you want to contact me, please leave me a message!</h5>
+I am studing Data analysis from South Korea KR. I am interested in environment and time series.  
+  
+  If you want to contact me, please leave me a mail or message!</h5>
 
 
 
