@@ -1,11 +1,28 @@
-<h1 align="center">Hi 👋, I'm Kyung Hee KIM</h1>
-<h3 align="center">A passionate Data Analyst from South Korea.</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hikhloee&label=Profile%20views&color=0e75b6&style=flat" alt="hikhloee" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hikhloee&label=Profile%20views&color=0e75b6&style=flat" alt="hikhloee" /> </p>
+<h3 align="left">Hi there 👋</h3>
 
-- 🌱 I’m currently learning **machine learning, bayes.**
+<h4 align="left">Hello, I'm kyunghee KIM!</h4>
+<h5 align="left">Good day!  
+I am studing Data analysis from South Korea KR. I am interested in environment and time series. If you want to contact me, please leave me a message!</h5>
 
-- 📫 How to reach me **kkh97122647@gmail.com**
+
+
+<h3 align="left">✨Work</h3>
+
+- I’m currently working on Research Institute of Applied Statistics, Sungkyunkwan Univ.(SKKU).
+
+
+
+<h3 align="left">💫Experience</h3>
+
+- Excellence Award in **Smart life ICT Convergence Idea APP Contest** hosted by Sogan Univ. and KIPFA, May 30, 2017. 
+- Participation Award in **College of Science and Technology Academic Conference** hosted by Duksung Women's Univ. Nov 26, 2020. 
+- A gold prize in **Creative Idea Contest in IT/Design Division** hosted by Duksung Women's Univ. Nov 27, 2020. 
+- Passed the preliminary round of the **Weather Big Data Contest** hosted by Korea Forest Service and ongoing.
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
