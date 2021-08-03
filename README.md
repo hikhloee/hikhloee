@@ -28,7 +28,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - Certificate of **ADsP(Advanced Data Analytics Semi-Professional)**, Dec. 27, 2017.
 - To join an open financial monitoring group organized by the Ministry of Strategy and Finance(기획재정부).
 - Tutor of Statistical Programming, R.
-- Dean's List on 1st semester of 2018, 2020 with GPA 4.5/4.5.
+- Dean's List on 1st semester of 2018, 2020.
 - Participation Award in **College of Science and Technology Academic Conference** hosted by Duksung Women's Univ. Nov 26, 2020. 
 - A gold prize in **Creative Idea Contest in IT/Design Division** hosted by Duksung Women's Univ. Nov 27, 2020. 
 - To graduate Magna Cum Laude, B.S.
