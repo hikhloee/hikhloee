@@ -1,4 +1,4 @@
-### Data Analysist
+### Data Analyst
 
 
 <!--
