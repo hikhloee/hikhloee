@@ -47,8 +47,8 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/62249557/128039628-9462001a-3725-4cd1-b775-744ba42bbec5.png" alt="R" width="30" height="30"> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikhloee&show_icons=true&locale=en" alt="hikhloee" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikhloee&show_icons=true&locale=en&layout=compact" alt="hikhloee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikhloee&show_icons=true&locale=en" alt="hikhloee"  width="400" height="200"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikhloee&show_icons=true&locale=en&layout=compact" alt="hikhloee"  width="400" height="200"/></p>
 
 <!--
 **hikhloee/hikhloee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
