@@ -36,6 +36,14 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - Passed the preliminary round of the **Weather Big Data Contest** hosted by Korea Forest Service(산림청) and ongoing.
 
 
+<h3 align="left">🔍Research</h3>
+
+- Analysis of Monthly Passport Issues in Korea with Seasonal ARIMA Model, Jun. 2020.
+- Multivariate Analysis of box office factors in the film industry, Jun. 2020.
+- A study on the effect of adjuvant chemotherapy for colon cancer using Survival Analysis, Dec. 2020.
+- A study on factors affecting employee engagement,Dec. 2020.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
