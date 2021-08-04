@@ -35,13 +35,6 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - To graduate *Magna Cum Laude*, B.S.
 - Passed the preliminary round of the **Weather Big Data Contest** hosted by Korea Forest Service(산림청) and ongoing.
 
-|Date|Contest|Rank|Language&Tool|
-|------|---|---|---|
-|테스트1|테스트2|테스트3||
-|테스트1|테스트2|테스트3||
-|테스트1|테스트2|테스트3||
-
-
 
 
 <h3 align="left">Connect with me:</h3>
