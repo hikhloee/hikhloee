@@ -29,10 +29,10 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 
 - Excellence Award in **Smart life ICT Convergence Idea APP Contest** hosted by Sogang Univ. and KIPFA, May 30, 2017. 
 - Certificate of **ADsP(Advanced Data Analytics Semi-Professional)**, Dec. 27, 2017.
-- Dean's List on 1st semester of 2018, 2020.
+- Dean's List on 1st semester of 2018 and 2020.
 - Participation Award in **College of Science and Technology Academic Conference** hosted by Duksung Women's Univ. Nov 26, 2020. 
 - A gold prize in **Creative Idea Contest in IT/Design Division** hosted by Duksung Women's Univ. Nov 27, 2020. 
-- To graduate Magna Cum Laude, B.S.
+- To graduate *Magna Cum Laude*, B.S.
 - Passed the preliminary round of the **Weather Big Data Contest** hosted by Korea Forest Service(산림청) and ongoing.
 
 
