@@ -12,7 +12,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 
 
 
-<h3 align="left">🎇Experience</h3>
+<h3 align="left">🎇Study</h3>
 
 - I'm studying master's degree, major in Statistics.
 
