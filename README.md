@@ -45,7 +45,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 
 <h3 align="left"> Others </h3>
 
-- OpenCV
+- [OpenCV](https://github.com/hikhloee/OpenCV.git)
 
 
 <h3 align="left">Connect with me:</h3>
