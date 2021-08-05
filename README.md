@@ -27,7 +27,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 
 <h3 align="left">💫Achievements</h3>
 
-- Excellence Award in [**Smart life ICT Convergence Idea APP Contest**](https://github.com/hikhloee/test1.git) hosted by Sogang Univ. and KIPFA, May 30, 2017. 
+- Excellence Award in [**Smart life ICT Convergence Idea APP Contest**](https://github.com/hikhloee/SmartLife_ICT_APP_Contest.git) hosted by Sogang Univ. and KIPFA, May 30, 2017. 
 - Certificate of **ADsP(Advanced Data Analytics Semi-Professional)**, Dec. 27, 2017.
 - Dean's List on 1st semester of 2018 and 2020.
 - Participation Award in [**College of Science and Technology Academic Conference**](https://github.com/hikhloee/Multivariate-Analysis-of-box-office-factors-in-the-film-industry.git) hosted by Duksung Women's Univ. Nov 26, 2020. 
