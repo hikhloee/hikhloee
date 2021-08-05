@@ -43,6 +43,9 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - A study on the effect of adjuvant chemotherapy for colon cancer using Survival Analysis, Dec. 2020.
 - A study on factors affecting employee engagement,Dec. 2020.
 
+<h3 align="left"> Others </h3>
+
+- OpenCV
 
 
 <h3 align="left">Connect with me:</h3>
