@@ -38,7 +38,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 
 <h3 align="left">🔍Research</h3>
 
-- Analysis of Monthly Passport Issues in Korea with Seasonal ARIMA Model, Jun. 2020.
+- Analysis of [Monthly Passport Issues in Korea with Seasonal ARIMA Model](https://github.com/hikhloee/Monthly-Passport-Issues.git), Jun. 2020.
 - Multivariate Analysis of box office factors in the film industry, Jun. 2020.
 - A study on the effect of adjuvant chemotherapy for colon cancer using Survival Analysis, Dec. 2020.
 - A study on factors affecting employee engagement,Dec. 2020.
