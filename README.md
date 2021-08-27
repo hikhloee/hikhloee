@@ -33,7 +33,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - Participation Award in [**College of Science and Technology Academic Conference**](https://github.com/hikhloee/Multivariate-Analysis-of-box-office-factors-in-the-film-industry.git) hosted by Duksung Women's Univ. Nov 26, 2020. 
 - A gold prize in **Creative Idea Contest in IT/Design Division** hosted by Duksung Women's Univ. Nov 27, 2020. 
 - To graduate *Magna Cum Laude*, B.S.
-- Top Award in [**Weather Big Data Contest**]() hosted by Korea Forest Service(산림청) Aug. 25, 2021.
+- Top Award in [**Weather Big Data Contest**](https://github.com/hikhloee/2021-WeatherBigDataContest.git) hosted by Korea Forest Service(산림청) Aug. 25, 2021.
 
 
 <h3 align="left">🔍Research</h3>
