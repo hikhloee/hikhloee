@@ -8,7 +8,7 @@
 <h5 align="left">Good day!  
 I am studing Data analysis from South Korea KR. I am interested in environment and time series.  
   
-  If you want to contact me, please leave me a e-mail or message!</h5>
+  If you want to contact me, please leave me an e-mail or message!</h5>
 
 
 
