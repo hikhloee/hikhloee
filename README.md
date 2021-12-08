@@ -27,7 +27,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 
 <h3 align="left">💫Achievements</h3>
 
-- Excellence Award in [**Smart life ICT Convergence Idea APP Contest**](https://github.com/hikhloee/SmartLife_ICT_APP_Contest.git) hosted by Sogang Univ. and KIPFA, May 30, 2017. 
+- Excellence Award in [**Smart life ICT Convergence Idea APP Contest**](https://github.com/hikhloee/SmartLife_ICT_APP_Contest.git) hosted by Seoul(서울시) May 30, 2017. 
 - Certificate of **ADsP(Advanced Data Analytics Semi-Professional)**, Dec. 27, 2017.
 - Participation Award in [**College of Science and Technology Academic Conference**](https://github.com/hikhloee/Multivariate-Analysis-of-box-office-factors-in-the-film-industry.git) hosted by Duksung Women's Univ. Nov 26, 2020. 
 - A gold prize in **Creative Idea Contest in IT/Design Division** hosted by Duksung Women's Univ. Nov 27, 2020. 
@@ -39,7 +39,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - Analysis of [Monthly Passport Issues in Korea with Seasonal ARIMA Model](https://github.com/hikhloee/Monthly-Passport-Issues.git), Jun. 2020.
 - Multivariate Analysis of box office factors in the film industry, Jun. 2020.
 - A study on the [effect of adjuvant chemotherapy for colon cancer using Survival Analysis](https://github.com/hikhloee/Survival-Analysis.git), Dec. 2020.
-- A study on factors affecting employee engagement,Dec. 2020.
+- A study on factors affecting employee engagement, Dec. 2020.
 
 <h3 align="left"> Others </h3>
 
