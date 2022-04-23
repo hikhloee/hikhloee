@@ -39,7 +39,6 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - Analysis of [Monthly Passport Issues in Korea with Seasonal ARIMA Model](https://github.com/hikhloee/Monthly-Passport-Issues.git), Jun. 2020.
 - Multivariate Analysis of box office factors in the film industry, Jun. 2020.
 - A study on the [effect of adjuvant chemotherapy for colon cancer using Survival Analysis](https://github.com/hikhloee/Survival-Analysis.git), Dec. 2020.
-- A study on factors affecting employee engagement, Dec. 2020.
 - Time series outlier detection and DTW clustering of the inflow and departure of Seoul Citizen Card users, Jan. 2022.
 -  Outlier detection for long memory processes in multivariate case, 2021-Present.
 
