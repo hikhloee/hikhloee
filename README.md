@@ -41,7 +41,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - A study on the [effect of adjuvant chemotherapy for colon cancer using Survival Analysis](https://github.com/hikhloee/Survival-Analysis.git), Dec. 2020.
 - [Time series outlier detection and DTW clustering of the inflow and departure of Seoul Citizen Card users](https://kiss.kstudy.com/thesis/thesis-view.asp?key=3931997), Jan. 2022.
 - [Outlier detection for multivariate long memory processes](http://www.kss.or.kr/bbs/board.php?bo_table=kjas_online_view&PIDX=328), 2022.
-- [Outlier detection and Online learing for commercial drones(2022-075)](https://www.kiise.or.kr/academy/board/itnewsView.fa), National Security Research Institude, 2022-Present.
+- [Outlier detection and Online learing for commercial drones(2022-075)](https://manuscriptlink.com/society/kiisc/homepage/bbs/cn/article/2097), National Security Research Institude, 2022-Present.
 - Appling differential privacy to various data, 2022-Present. 
 
 <h3 align="left"> Others </h3>
