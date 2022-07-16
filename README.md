@@ -41,7 +41,7 @@ I am studing Data analysis from South Korea KR. I am interested in environment a
 - [Time series outlier detection and DTW clustering of the inflow and departure of Seoul Citizen Card users](https://kiss.kstudy.com/thesis/thesis-view.asp?key=3931997), Jan. 2022.
 - [Outlier detection for multivariate long memory processes](http://www.kss.or.kr/bbs/board.php?bo_table=kjas_online_view&PIDX=328),Jun. 2022.
 - [Outlier detection and Online learing for commercial drones(2022-075)](https://manuscriptlink.com/society/kiisc/homepage/bbs/cn/article/2097), National Security Research Institude, Jan. 2022-Present.
-- Appling differential privacy to various data, May. 2022-Present. 
+- [Appling differential privacy to various data](https://kiisc.or.kr/society/kiisc/homepage/bbs/2033/5162), May. 2022-Present. 
 
 <h3 align="left"> Others </h3>
 
